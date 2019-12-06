@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{BF731106-F445-FE34-3DDA-B2B91338CF62}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/Layout.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/Card.cs" Line="94" Column="1" />
+      <File FileName="Assets/__Scripts/Deck.cs" />
+      <File FileName="Assets/__Scripts/Prospector.cs" Line="371" Column="33" />
+      <File FileName="Assets/Resources/LayoutXML.xml" />
+      <File FileName="Assets/__Scripts/Layout.cs" Line="72" Column="1" />
+      <File FileName="Assets/__Scripts/CardProspector.cs" />
+      <File FileName="Assets/__Scripts/ScoreManager.cs" />
+      <File FileName="Assets/__Scripts/FloatingScore.cs" />
+      <File FileName="Assets/__Scripts/Scoreboard.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prospector" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="__Scripts" expanded="True">
+                <Node name="Layout.cs" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bba5c7b9-4cb8-4d8b-8b34-b7834b6eff93" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
